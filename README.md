@@ -27,5 +27,6 @@ soft ve estetik bir manifest & intention listeleme uygulamasıdır 💫
 
 🛠️ Kurulum
 
+```bash
 npm install
-npx expo start
+npm run dev
