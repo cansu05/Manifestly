@@ -23,7 +23,6 @@ soft ve estetik bir manifest & intention listeleme uygulamasıdır 💫
 - React Native  
 - Expo  
 - TypeScript  
-- FlatList  
 - expo-font  
 
 ---
