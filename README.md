@@ -26,6 +26,7 @@ soft ve estetik bir manifest & intention listeleme uygulamasıdır 💫
 • expo-font  
 
 🛠️ Kurulum
+
 npm install
 
 npx expo start
